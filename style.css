@@ -1,0 +1,587 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+
+
+
+.container{
+    border:solid 3px rgb(248, 248, 248);
+    height:120px;
+    width:100%;
+    position: fixed;
+    z-index: 99;
+   background: white; 
+   margin-top: -10px;
+   
+}
+
+.container1{
+border: solid 3px rgb(255, 255, 255);
+height:700px;
+width:100%;
+display: flex;
+position: sticky;
+
+margin-top: 50px;
+
+}
+.header{
+    border: solid 0px rgb(244, 143, 10);
+    height:30px;
+    width: 100%;
+    background: rgb(225, 225, 11);
+}
+.mb-no{
+    border: solid 0px rgb(51, 39, 188);
+    height:25px;
+    width: 100%;
+    display: flex;
+}
+.contact0{
+    border: solid 0px rgb(7, 7, 7);
+    height:20px;
+    width:139px;
+    margin-left: 1150px;
+}
+.contact1{
+border: solid 0px rgb(7, 7, 7);
+height:20px;
+width: 139px;
+margin-left: 0px;
+}
+.contact2{
+    border: solid 0px rgb(7, 7, 7);
+    height:20px;
+    width: 80px;
+    margin-left: 0px;
+    }
+    
+
+
+
+.nav-bar{
+    border: solid 0px rgb(39, 47, 189);
+    height:53px;
+    width: 100%;
+    display: flex;
+    background: white;
+}
+.menu{
+    border:solid 0px red;
+    height:50px;
+    width:50px;
+    margin-top: 0px;
+
+}
+.menu img{
+    height:50px;
+    width:50px;
+}
+
+.RB-logo{
+    border:solid 0px red;
+    height:50px;
+    width:150px;
+    margin-top: 0px;
+   
+
+}
+.RBX-logo{
+    border:solid 0px red;
+    height:50px;
+    width:70px;  
+    margin-top: 0px;
+    margin-left: 80px;
+    
+}
+.RBX-logo:hover{
+    background-color:orange;
+}
+
+.tarif{
+    border:solid 0px red;
+    height:50px;
+    width:70px;  
+    margin-top: 0px;
+    margin-left: 70px;
+    text-align: center;
+    
+    
+}
+
+.tarif:hover{
+    background-color: orange;
+}
+
+
+ .tarif ,a{
+    
+    text-decoration: none;
+    
+    
+}
+.offer{
+    border: 0px red;
+    height:50px;
+    width:70px;  
+    margin-top: 0px;
+    margin-left: 70px;
+    text-align: center;
+    
+    
+}
+
+.offer:hover{
+    background-color:orange;
+}
+
+
+ .offer ,a{
+    
+    text-decoration: none;
+    
+    
+}
+
+.what1:hover{
+    background-color:orange;
+}
+.part:hover{
+    background-color: orange;
+}
+.partner{
+    margin-left: 55px;
+    border-radius: 10px;
+    
+}
+
+.loca:hover{
+    background-color: orange;
+}
+
+
+
+.con1{
+    border: solid 1px rgb(124, 197, 16);
+    height:700px;
+    width: 550px;
+    margin-top: 0px;
+    background-color:rgb(243, 248, 248);
+   
+}
+.search-ride{
+    border:solid 0px rgb(255, 255, 255);
+    height:50px;
+    width:300px;
+    margin-top: 39px;
+    font-size: xx-large;
+    text-align: 50px;
+    margin-left: 30px;
+
+}
+
+.box{
+    border:solid 1px rgb(197, 195, 195);
+    height: 390px;
+    width: 400px;
+    margin-left: 120px;
+    margin-top: 100px;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+
+
+.input-container{
+    border: solid 0px black;
+    height:50px;
+    width:338px;
+    margin-left: 25px;
+    display: flex;
+}
+
+.date-pickup{
+    margin-top: 0px;
+}
+    
+.con2{
+    border: solid 0px blue;
+    height:700px;
+    width: 990px;
+    margin-top: 0px;
+   
+}
+.con2 img{
+    height:700px;
+    width: 990px;
+
+}
+
+.container2{
+    border: solid 0px black;
+    width:100%;
+    height:700px;
+}
+.container2 img{
+    width:100%;
+    height:700px;
+}
+
+
+.container3{
+    border:solid 0px aqua;
+    height:450px;
+    width:100%;
+    
+}
+/* .bike-collection{
+
+} */
+.bike{
+    margin-left: 30px;
+}
+.bike img{
+    margin-top: 0px; 
+}
+
+
+
+
+.container4{
+    border: solid 0px rgb(16, 17, 16);
+    height:800px;
+    width:100%;
+    text-align: center;
+    display: flex;
+    margin-top: 0px;
+   
+}
+.header2{
+    border: solid 0px red;
+    height:30px;
+    width:200px;
+}
+.place{
+    border: solid 0px rgb(28, 210, 207);
+    height:550px;
+    width:100%;
+    margin-top: 200px;
+    display: flex;
+   
+}
+
+.bo{
+    border: solid 0px black;
+    height:550px;
+    width:500px;
+    margin-top: 0px;
+    
+}
+.bo1{
+    border: solid 0px black;
+    height:400px;
+    width:900px;
+    margin-top: 80px;
+    margin-left: 65px;
+    background-color:white;
+    
+}
+    
+.FEATURED{
+    border: solid 0px rgb(180, 56, 56);
+    height:80px;
+    width:100%;
+    display: flex;
+    margin-top: 10px;
+}
+.news{
+    border: solid 1px rgb(228, 228, 239);
+    height:80px;
+    width:249px; 
+    border-radius: 10px;
+}
+.news img{
+   
+    height:35px;
+    width:210px; 
+    margin-top: 20px;  
+    margin-left: 5px; 
+}
+  
+.news1{
+    border: solid 1px rgb(214, 214, 219);
+    height:80px;
+    width:249px; 
+    border-radius: 10px;
+}
+
+.news1 img{
+   
+    height:45px;
+    width:160px; 
+    margin-top: 15px; 
+    margin-left: 35px;  
+}
+.news2{
+    border: solid 1px rgb(232, 232, 241);
+    height:80px;
+    width:249px; 
+    border-radius: 10px;
+}
+.news2 img{
+    
+    height:39px;
+    width:210px; 
+    margin-top: 25px;  
+    margin-left: 25px; 
+}
+.news3{
+    border: solid 1px rgb(231, 231, 233);
+    height:80px;
+    width:249px;
+    border-radius: 10px; 
+}
+.news3 img{
+   
+    height:45px;
+    width:170px; 
+    margin-top: 20px;
+    margin-left:50px ;   
+}
+.news4{
+    border: solid 1px rgb(224, 224, 230);
+    height:80px;
+    width:249px; 
+    border-radius: 10px;
+}
+.news4 img{
+   
+    height:15px;
+    width:120px; 
+    margin-top: 35px; 
+    margin-left: 60px;  
+}
+.news5{
+    border: solid 1px rgb(235, 235, 235);
+    height:80px;
+    width:249px; 
+    border-radius: 10px;
+}
+.news5 img{
+   
+    height:35px;
+    width:210px; 
+    margin-top: 25px;   
+}
+
+
+
+
+.footer{
+    border: solid 1px greenyellow;
+    height:450px;
+    width:100%;
+    background-color: rgba(31, 30, 30, 0.907);
+    margin-top: 350px;
+}
+
+.footer-container1{
+    border: solid 3px rgb(15, 33, 197);
+    height:200px;
+    width:100%;
+    display: flex;
+    margin-top: 100px;
+   
+}
+.foot-box01{
+    border:solid 1px white;
+    height:190px;
+    width:300px;
+    margin-left: 70px;
+   
+   
+}
+.foot-box01 a{
+    text-align: center;
+    color:rgb(203, 195, 195);
+    
+}
+
+.foot-box02{
+    border:solid 1px white;
+    height:190px;
+    width:300px;
+    margin-left: 70px;
+}
+.foot-box02 a{
+    text-align: center;
+    color:rgb(203, 195, 195);
+}
+
+.foot-box03{
+    border:solid 1px white;
+    height:190px;
+    width:300px;
+    margin-left: 70px;
+}
+.foot-box03 a{
+    color:rgb(203, 195, 195); 
+}
+
+.foot-box04{
+    border:solid 1px white;
+    height:190px;
+    width:300px;
+    margin-left: 70px;
+}
+.foot-box04 a{
+    color:rgb(203, 195, 195); 
+}
+
+
+
+.footer-container2{
+    border: solid 2px rgb(214, 115, 22);
+   height: 300px;
+    width:100%;
+    display: flex;
+}
+.box05{
+    border: solid 1px white;
+    height:140px;
+    width:280px;
+    margin-left: 70px;
+   
+}
+.icon{
+    border: solid 1px white;
+    height:50px;
+    width:50px;
+    display: flex;
+    margin-top: 40px;
+}
+
+.box06{
+    border: solid 1px white;
+    height:140px;
+    width:330px;
+   margin-left: 100px;
+  
+    
+}
+
+
+.icon img{
+    height: 50px;
+}
+
+
+.down{
+    border: solid 1px red;
+    height:55px;
+    width:240px; 
+    margin-top: 50px;
+    display: flex;
+}
+.down img{
+  height:55px;
+  width:120px;
+ 
+}
+
+
+
+
+
+
+
+
+
+.description{
+    border: solid 2px brown;
+    height:1390px;
+    width: 100%;
+    background-color: rgba(31, 30, 30, 0.907);
+    
+}
+.para1{
+    border: solid 0px violet;
+    height:295px;
+    width:88%;
+    margin-left: 85px;
+   
+}
+.para2{
+    border: solid 0px violet;
+    height:295px;
+    width:88%;
+    margin-left: 85px;
+   
+}
+.para3{
+    border: solid 0px violet;
+    height:295px;
+    width:88%;
+    margin-left: 85px;
+   
+}
+.para4{
+    border: solid 0px violet;
+    height:220px;
+    width:88%;
+    margin-left: 85px;
+   
+}
+.para5{
+    border: solid 0px violet;
+    height:255px;
+    width:88%;
+    margin-left: 85px;
+    
+   
+}
+.last-tag{
+    border:solid 0px blue;
+    height:41px;
+    background-color: black;
+}
+
+/* second page */
+/* second page */
+.rbx{
+    border: solid 2px white;
+    height: 550px;
+    width: auto;
+   background-image: url(./image/second-img.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.sea{
+    border: solid 0px red;
+    height: 100px;
+    width: 380px;
+    background-image: url(./image/sea.png);
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    margin-top: 230px;
+    margin-left: 80px;  
+}
+.sea2{
+    border: solid 0px green;
+    height: 300px;
+    width: auto;
+    background-image: url(./image/sec2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.sea3{
+    border: solid 0px green;
+    height: 400px;
+    width: auto;
+    background-image: url(./image/sec3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top:-20px;
+}
